@@ -1,3 +1,5 @@
+# Here, I have demonstrated the most basic usage of the search SDK, using hooks. This SDK is designed to be highly isolated and performant, making it versatile for use in any environment. Whether you prefer Redux, Context, or any other state management tool, you can manipulate the retrieved data using seMovies or setSearchQuery as needed. This hook is plug-and-play - enjoy the flexibility!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
